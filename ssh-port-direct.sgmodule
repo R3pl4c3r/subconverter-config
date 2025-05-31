@@ -1,0 +1,5 @@
+#!name=SSH port direct
+#!desc=将22端口设为直连
+
+[Rule]
+DEST-PORT,22,DIRECT
